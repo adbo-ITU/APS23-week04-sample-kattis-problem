@@ -2,3 +2,6 @@ name: Hitting Kattis Out of the Barrel
 author: Adrian Borup, Anne M. Bartholdy-Falk, Joachim Borup
 source: APS 2023 exercises
 license: cc by-sa
+type: scoring
+grading:
+    show_test_data_groups: true
