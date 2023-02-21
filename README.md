@@ -4,6 +4,8 @@ Exercise reference: <https://github.itu.dk/algorithms/aps-23/edit/main/040-probl
 
 In the bottom of this README, you can see a sample run of the test case generation and problem verification.
 
+For test data generation, we have used [Kodsport's `testdata_tools`](https://github.com/Kodsport/testdata_tools).
+
 ## Tasks
 
 - [x] Problem description
